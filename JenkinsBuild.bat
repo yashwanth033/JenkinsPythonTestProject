@@ -1,3 +1,2 @@
-@echo off
-python hello.py %*
-pause
+SET PATH=%PATH%;%PYTHON_PATH%
+python hello.py %
