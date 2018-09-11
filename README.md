@@ -1,2 +1,2 @@
 # JenkinsPythonTestProject
-This project is to test git integration with python.
+This project is to test git integration with python and eclipse.
