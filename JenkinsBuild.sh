@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-set -e
-chmod +x hello.py
+set -xe
 python3 hello.py
 pytest hello.py --junitxml=test_reports/test_report.xml
 python3 -m coverage run hello.py
