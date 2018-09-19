@@ -1,4 +1,4 @@
-#!/usr/bin/
+#!/usr/sh/
 chmod +x hello.py
 python3 hello.py
 pytest hello.py --junitxml=test_reports/test_report.xml
