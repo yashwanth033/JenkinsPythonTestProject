@@ -10,4 +10,4 @@ def inc(xxxx):
 def test_answer():
     assert inc(4) == 5
     assert inc(1) == 2
-    assert inc(3) == 3
+    assert inc(3) == 4
