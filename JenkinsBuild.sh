@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env bash
 set -xe
 python3 hello.py
 pytest hello.py --junitxml=test_reports/test_report.xml
